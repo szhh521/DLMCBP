@@ -4,117 +4,79 @@ A Brief Survey of Deep Learning-based Models for CircRNA-Protein Binding Sites P
 # CircRNA-RBP binding database
 CircIntercome
 
-Provides the genomic location of RBP binding sites in circRNAs sequence
-
 https://circinteractome.nia.nih.gov/index.html
 
 CSCD2.0 
-
-Records the genomic location, function, and regulation of cancer-associated circRNAs, predicted MREs, RBPs and ORFs
 
 http://gb.whu.edu.cn/CSCD/
 
 TSCD 
 
-Record whether circRNA binds to RBP
-
 http://gb.whu.edu.cn/TSCD/
 
 CircAtlas 3.0 
 
-Provides details about conservation across species, interactions between circRNA and miRNA, predicted IRESs, ORFs and RBPs
-
 https://ngdc.cncb.ac.cn/circatlas/
 
 ENCORI 
-
-Records a large amount of biological molecule interaction data about miRNA-ncRNA, miRNA-mRNA, RBP-RNA and RNA-RNA 
 
 https://rnasysu.com/encori/
 
 # CircRNA-related annotation database
 circBase
 
-Provides circRNA genomic information of five species, including genomic position, sequences, and gene symbols 
-
 http://www.circbase.org/
 
 circRNADb
-
-Provides human circRNAs with protein-coding annotations
 
 http://reprod.njmu.edu.cn/circrnadb
 
 CircBank
 
-Provides a novel nomenclature system based on the host gene name, chromosome location, and collects circRNA conservation, miRNA binding, protein coding potential, methylation, etc.
-
 http://www.circbank.cn/
 
 CIRCpedia V2
-
-Provides annotations for circular RNAs from over 180 RNA-seq datasets across six different species
 
 https://www.picb.ac.cn/rnomics/circpedia/
 
 CircNet 2.0
 
-Records the tissue-specific circRNA expression profiles and circRNA-miRNA-gene regulatory network
-
 https://awi.cuhk.edu.cn/~CircNet
 
 CircRiC
-
-Provides the modules of integrative analysis, drug response, biogenesis, and expression landscape
 
 https://hanlab.uth.edu/cRic/
 
 CircFunBase
 
-Records circRNA function, interactions between circRNA and miRNA, and GO annotations 
-
 https://bis.zju.edu.cn/CircFunBase/
 
 TRCirc
 
-Provides details about over 765 000 transcription factor-circRNA relationships
-
 https://bio.liclab.net/TRCirc
 
 deepBase V3.0
-
-Provides the annotations and comprehensive expression analysis of circRNAs, lncRNAs, tRFs, and sRNAs for 14 species
 
 https://rna.sysu.edu.cn/deepBase
 
 # Protein-related annotation database
 Uniprot
 
-Provides the high-quality, comprehensive, and freely available resource of protein sequence and functional information
-
 https://www.uniprot.org/
 
 String
-
-Provides protein-protein interaction networks and functional enrichment analysis
 
 https://cn.string-db.org/
 
 NCBI Protein
 
-Records protein annotations collected from other database, like GenBank, RefSeq, TPA, etc.
-
 https://www.ncbi.nlm.nih.gov/protein/
 
 HPRD 9.0
 
-Provides the information of domain architecture, post-translational modifications, interaction networks and disease association for each protein in the human proteome
-
 http://www.hprd.org/
 
 RBPWorld/EuRBPDB V2
-
-Provides precise and comprehensive list of RBPs of each eukaryote with annotations collected from various public databases.
 
 http://research.gzsys.org.cn/eurbpdb2/index.html
 
